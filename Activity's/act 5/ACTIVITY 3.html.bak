@@ -1,0 +1,70 @@
+<html>
+<head>
+<title>ACTIVITY 3</title>
+</head>
+<body>
+<style>
+mark
+{ 
+  background-color: pink;
+  color: blue;
+}
+body
+	{
+		background-image:url("background1.jpg");
+		background-size: cover;
+		background-position: center;
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+	}
+</style>
+<center>
+<h1 style="color:#77cccc">MY THIRD ACTIVITY</h1>
+<hr>
+<img src="Oceanofgames logo.PNG"style="width:250px;height:250px;" usemap="#sample">
+<map name="sample">
+<area shape"rect" coords=6,4,394,208" href="https://oceantogames.com/" target="blank"></a> <br>
+<h1>
+<mark>Sa ocean of games ay maaari kang makapag download ng mga larong
+						  online at offline at ito ay libre. walang ads dito kaya madali 
+						  lang ang process ng pagdownload</mark>
+<h1>
+<hr>
+<img src="sflixlogo.jpg"alt="HTML" style = "width:250px;height:250px;" usemap="#sampl">
+<map name="sampl">
+<area shape"rect" coords=6,4,394,208" href="https://sflix.to//" target="blank"></a> <br>
+<mark>Sa sflix ay maaari makanuod ng mga updated na movies ngunit ito ay maraming
+				   ads bago mo mapanuod ang gusto mong movie pero nai-skip naman ito</mark>
+</h1>
+<hr>
+<img src="lazadalogo.jpg"alt="HTML" style = "width:250px;height:250px;" usemap="#samp">
+<map name="samp">
+<area shape"rect" coords=6,4,394,208" href="https://www.lazada.com.ph" target="blank"></a> <br>
+<h1>
+<mark>Sino ba naman di nakakaalam ng lazada? kahit sinong maluhong tao ay alam yan lalo na ako
+						  pero hindi lahat ng gumagamit ng lazada ay maluho hahahah. ang lazada ay isang application
+						  kung saan ay mabibili mo kung ano man ang nais mo. essential man yan o hindi.</mark>
+</h1>
+<hr>
+<img src="w3shoollogo.jpg"style="width:250px;height:250px;" usemap="#sam">
+<map name="sam">
+<area shape"rect" coords=6,4,394,208" href="https://www.w3schools.com/" target="blank"></a> <br>
+<h1>
+<mark>Sa w3school ako kumukuha ng mga codes na ginagamit ko ngayon. madaling mahanap ang mga
+						  tags at iba pang kailangan mo. hindi lang html ang meron ang w3school. meron din itong
+						  iba pang programming languages na maaari mong gamitin sa araw araw</mark>
+</h1>
+<hr>
+<img src="facebooklogo.PNG"style="width:250px;height:250px;" usemap="#sa">
+<map name="sa">
+<area shape"rect" coords=6,4,394,208" href="https://www.facebook.com/" target="blank"></a> <br>
+<h1>
+<mark>Wala na kasi akong maisip na iba pang website kaya pambansang facebook nalang ang naisip ko.
+						  bukod sa facebook ang pinaka popular na website sa lahat, ang facebook din ang isa sa mga 
+						  pangunahing paraan para makapag-usap ang mga nasa magkalayong lugar gaya ng jowa mo na may mahal
+						  ding iba</mark>
+<h1>
+
+</center>
+</body>
+</html>
